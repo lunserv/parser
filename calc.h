@@ -1,0 +1,1 @@
+double calc(char* str);
